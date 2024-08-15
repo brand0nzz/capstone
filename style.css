@@ -1,0 +1,126 @@
+/*
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: black;
+ }
+
+img {
+    width: 500px;
+    height: 400px;
+    padding: 50px;
+    background-color: lightgrey;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+p {
+    margin: 50px;
+    font-family: 'Lucida Sans';
+    font-size: larger;
+    border-style: groove;
+    text-align: center;
+    padding: 50px;
+    background-color: lightgrey;
+}
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(102, 103, 109);
+    font-size: 60px;
+}
+nav {
+    background-color: lightblue;
+    padding: 5px;
+    display: flex;
+    font-family: 'Lucida Sans';
+    border-style: solid;
+    justify-content: space-around;
+    font-size: 40px;
+    border-color: rgb(102, 103, 109);
+}
+
+#HobbiesIMGS {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+#General {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+
+
+.items:hover {
+    background-color: beige;
+    opacity: 0.5;
+}
+*/
+
+/*draft*/
+.name{
+    margin-top: 100px;
+    margin-left: 33px;
+    color:rgb(0, 0, 0);
+    
+    text-shadow: 2px 2px red;
+
+}
+#personbar{
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.aboutme
+{
+    padding:20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(238, 212, 207, 0.633);
+    border-width: 10px;
+    color: rgba(0, 0, 0, 0.975);
+    outline-style:solid;
+    outline-color: rgb(232, 223, 223);
+
+}
+.links
+{
+    
+    padding:20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(238, 212, 207, 0.633);
+    border-width: 10px;
+    color: rgba(0, 0, 0, 0.975);
+    outline-style:solid;
+    outline-color: rgb(232, 223, 223);
+
+}
+.images
+{
+    padding:1px;
+    color:white;
+    background-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(28, 135, 229);
+    border-width: 5px;
+    outline-style:solid;
+    outline-color: rgb(10, 10, 10);
+
+}
+
